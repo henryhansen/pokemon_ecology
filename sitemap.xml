@@ -22,9 +22,12 @@
     <loc>/index.html</loc>
   </url>
   <url>
-    <loc>/reference/hello.html</loc>
+    <loc>/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>/reference/pokedex.sim.html</loc>
+  </url>
+  <url>
+    <loc>/reference/pokemon.pop.sim.html</loc>
   </url>
 </urlset>
