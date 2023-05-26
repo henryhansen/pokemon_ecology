@@ -1,12 +1,14 @@
 Package: pokemon.ecology
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Package to introduce ecological methods with pokemon go
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Henry H. Hansen
+Maintainer: Henry H. Hansen <henry.hansen@kau.se>
+Description: This package is to support a workshop that teaches ecological 
+    methods using the app pokemon go. The articles and functions of the package
+    provides a good starting point to think about how to measure animals in the 
+    wild without anything more than a cellphone and a computer.
+License: MIT License
 Encoding: UTF-8
 LazyData: true
 URL: https://henryhansen.github.io/pokemon_ecology/
