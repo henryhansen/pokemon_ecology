@@ -1,0 +1,19 @@
+---
+title: "First analysis with R"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{First analysis with R}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(pokemon.ecology)
+```
